@@ -1,5 +1,8 @@
 ## Introduction
 
+In order for the .R files to run, the data from text file (listed below) needs
+to be located in the same directory as the .R files themselves.
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
